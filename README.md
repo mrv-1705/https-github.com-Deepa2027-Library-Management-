@@ -15,7 +15,7 @@ REG NO: 212223040103
 ![image](https://github.com/user-attachments/assets/e2ba8e32-0c1e-40f6-8083-4389fd40f0da)
 
 ## ACTIVITY DIAGRAM
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/31c730a2-8c73-4446-9510-fc7621e5692f)
 
 ## RESULT
 Thus all the UML diagrams for Library management system are completed and implemented successfully using StarUML
